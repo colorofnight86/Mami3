@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">あままみ3</string>
+    <string name="left">◀</string>
+    <string name="right">▶</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="replay">Replay</string>
+</resources>
